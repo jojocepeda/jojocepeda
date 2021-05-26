@@ -1,6 +1,8 @@
 ## - 👋 Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
  I’m @jojocepeda, i am very good at drawing on canvas, designing theater stages, scenes and plots. everything related to art and aesthetics from the physical to the virtual world with all its properties exploring its functionalities.
+ 
+ <img align="left" alt="GIF" src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" />
 
 - 👀 I’m interested in everything related to criativity.
 - 🌱 I’m currently learning javascript working with frameworks like Vue.js and React.
@@ -30,6 +32,3 @@ Talk to me about
  [![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mishra.shanu15/)](https://medium.com/@mishra.shanu15/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cepedajojo20@gmail.com)](mailto:cepedajojo20@gmail.com)
 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" />
