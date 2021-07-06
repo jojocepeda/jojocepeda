@@ -27,7 +27,7 @@ Talk to me about
 
 [![Ello Badge](https://img.shields.io/badge/ELLO-Find%20Me-brightgreen)](https://ello.co/__j____o)
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/__j____o/)
- [![Medium Badge](https://img.shields.io/badge/-@mishra.shanu15-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mishra.shanu15/)](https://medium.com/@mishra.shanu15/)
+[![Twitch Badge](https://img.shields.io/twitch/status/jojocepeda?style=social)](https://www.twitch.tv/jojocepeda)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cepedajojo20@gmail.com)](mailto:cepedajojo20@gmail.com)
 
 <br>
